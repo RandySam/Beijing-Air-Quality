@@ -1,10 +1,10 @@
 # Setup Environment Terminal
 
-mkdir proyek_analisis_data
-cd proyek_analisis_data
-pipenv install
-pipenv shell
-pip install -r requirements.txt
+1. mkdir proyek_analisis_data
+2. cd proyek_analisis_data
+3. pipenv install
+4. pipenv shell
+5. pip install -r requirements.txt
 
 # Run Streamlit
 
